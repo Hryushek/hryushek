@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Hryushek/hryushek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+It's Anastasiia, a newbie in ✨ Project Management ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm looking for a job** and this is the list of facts about me:
+
+📑 Ex IT/IP lawyer  
+💅 Ex LegalTech startup CEO  
+💻 My skills in frontend development:
+- HTML  
+- CSS
+- React  
+- Node  
+- Webpack
+
+🌱 Currently learning JavaScript  
+🚀 Planning is my passion  
+☮️ Originally from Russia   
+⚡ Fun fact: I'm afraid of dogs, so, if you're a dog, pls, don't text me
+
+📫 How to reach me: ankolts@yandex.ru
