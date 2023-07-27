@@ -16,6 +16,7 @@ It's Anastasiia, an amazing manager for ✨ amazing teams ✨
 
 🌱 Currently learning JavaScript  
 🚀 Planning is my passion  
+🏆 I am the best at effective communication 
 ⚡ Fun fact: I'm afraid of dogs, so, if you're a dog, pls, don't text me
 
 📫 How to reach me: anastasiaa.koltsova@gmail.com
