@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-It's Anastasiia, a newbie in ✨ Project Management ✨
+It's Anastasiia, an amazing manager for ✨ amazing teams ✨
 
-**I'm looking for interesting projects** and this is the list of facts about me:
+**I'm always looking for interesting projects** and this is the list of facts about me:
 
 📑 Ex IT/IP lawyer  
 💅 Ex LegalTech startup CEO  
